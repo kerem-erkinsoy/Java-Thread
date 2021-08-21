@@ -1,4 +1,4 @@
-# Java-Thread
+# Matrix Multiplication with Java Threads
 
 ## For "Question1" Main Class:
 ## Explanation of problem:
