@@ -1,6 +1,6 @@
 # Java-Thread
 
-For "Question1" Main Class:
+## For "Question1" Main Class:
 ## Explanation of problem:
 Multiplying an MxN matrix with another matrix of NxP size is done with Java Threads.
 A part of the result matrix will be created by giving a row of the first matrix and the entire second matrix to thread.
@@ -20,5 +20,5 @@ Matris2.txt (3x2)
 - In the test program's main method, take the two matrix that comes from the files as input, create the buffer object and create the thread as the number of rows of the first matrix as and start the threads. Then, after waiting for all the threads to finish, print the buffer to terminate the main method.
 
 
-## Q2.
+## For "Question2" Main Class:
 - We have integer values that you can keep in the data structure you want. You can think that the maximum number of data for the exam is 100, and you can set this data by generating a random number. We want to sort this data using three different algorithms, so we want to have the chance to choose the algorithm at runtime. These three algorithms are "BubbleSort", "QuickSort (recursive)" and "InsertionSort". Perform this application using the design patterns. Write this application using the design patterns. In the design pattern you will use, show the implementation of all three algorithms for experimental purposes and also measure the runtime for each sorting algorithm.
